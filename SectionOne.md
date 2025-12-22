@@ -2,6 +2,9 @@
 A documentation of git branching practice problems from "Learn Git Branching"
 ## Section 1 Level 1
 First level was about commits, it is used to commit the code, the advantage is that the previous code and the new code will be saved. and the new commit will be saved as new main*
+
+``` $ git commit ```
+
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/38da8e2c-f279-45d9-a1c8-2fb2b24321e2" />
 
 ## Section 1 Level 2
@@ -9,10 +12,9 @@ This Level shows the usage of branches, and swiching between branches
 ```$ git branch bugFix```
 this command is used to create a new branch.
 
-<img width="222" height="244" alt="image" src="https://github.com/user-attachments/assets/6cc6c3c3-01bc-4076-9858-ef3968e50407" />
-
 if we want to checkout that new branch we can use the below commad
 ```$ git checkout bugFix```
+
 
 <img width="226" height="350" alt="image" src="https://github.com/user-attachments/assets/f6da33c5-4393-4dea-b306-3879cdcaf73d" />
 
