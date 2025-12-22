@@ -53,10 +53,12 @@ $ git commit
 $ git checkout main
 ```
 <img width="214" height="334" alt="image" src="https://github.com/user-attachments/assets/a0eb7252-ca22-4da4-9ddb-fa26a0db44a7" />
+
 ```
 $ git commit
 $ git checkout bugFix
 ```
+
 ```
 $ git rebase main
 ```
